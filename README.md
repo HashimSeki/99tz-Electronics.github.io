@@ -1,4 +1,4 @@
 # 99TZ Electronics
-First Year Final Project
+My First Ever Programming Project
 ## Developer
 Hashim Seki
